@@ -1,5 +1,3 @@
- firesignal(game:GetService("ReplicatedStorage").EntityInfo.Caption.OnClientEvent, 'Godmode loaded, Have fun!',true,1)
-
 local LocalPlayer = game:GetService(“Players”).LocalPlayer
 local function Invincibility()
 if LocalPlayer.Character then
